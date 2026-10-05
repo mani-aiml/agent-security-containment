@@ -6,6 +6,6 @@ transcripts or per-run files. Each folder's README says how to reproduce its num
 
 | Folder | Video | What's inside |
 |---|---|---|
-| [video2-credentials](video2-credentials/) | Credentials: what an agent can act with | A decoy-key test and AgentDojo credential attacks on a small local model, with the full report |
+| [agent-credential-tests](agent-credential-tests/) | [What Actually Stops Your AI Agent From Using a Key?](https://youtu.be/cvLRlcRjwIo) | A decoy-key test and AgentDojo credential attacks on a small local model, with the full report |
 
 MIT licensed. These are tests for understanding a pattern, not a security product or full guidance.
