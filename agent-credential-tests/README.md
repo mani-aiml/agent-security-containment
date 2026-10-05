@@ -1,4 +1,4 @@
-# Video 2: Credentials, what an agent can act with
+# Video 2: Agent Credential Test, what an agent can act with
 
 The two tests behind the video. Results, exact prompts, every change made along the way and the limits are in
 [REPORT.md](REPORT.md).
