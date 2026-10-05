@@ -1,0 +1,5 @@
+# decoy_test.py
+anthropic==1.7.0
+# agentdojo_run.py (separate environment is fine)
+agentdojo==0.1.35
+openai==3.24.0
